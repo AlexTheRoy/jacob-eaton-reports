@@ -1,0 +1,573 @@
+ZIP,City,County,State,Leads,Quoted,Sold,Homeowner leads,County homeownership rate % (Census QuickFacts 2020-2024),County median home value $ (2020-2024),"County median household income $ (2020-2024, 2024 dollars)"
+66048,Leavenworth,Leavenworth,KS,16,2,1,16,,,
+67401,Salina,Saline,KS,15,2,0,12,,,
+67217,Wichita,Sedgwick,KS,13,1,0,13,63.1,203300,69365
+67025,Cheney,Sedgwick,KS,12,1,0,12,63.1,203300,69365
+67207,Wichita,Sedgwick,KS,10,0,0,10,63.1,203300,69365
+67211,Wichita,Sedgwick,KS,10,0,0,8,63.1,203300,69365
+67203,Wichita,Sedgwick,KS,9,0,0,8,63.1,203300,69365
+67214,Wichita,Sedgwick,KS,9,0,0,9,63.1,203300,69365
+67846,Garden City,Finney,KS,9,3,0,9,,,
+68008,Blair,Washington,NE,9,0,0,9,,,
+68107,Omaha,Douglas,NE,9,0,0,9,61.5,266100,80391
+66104,Kansas City,Wyandotte,KS,8,0,0,7,,,
+66614,Topeka,Shawnee,KS,8,0,0,8,66.8,180900,67104
+66801,Emporia,Lyon,KS,8,0,0,8,,,
+67208,Wichita,Sedgwick,KS,8,3,2,8,63.1,203300,69365
+67301,Independence,Montgomery,KS,8,1,0,8,,,
+67801,Dodge City,Ford,KS,8,0,0,8,,,
+69361,Scottsbluff,Scotts Bluff,NE,8,4,1,8,,,
+66062,Olathe,Johnson,KS,7,0,0,7,,,
+66067,Ottawa,Franklin,KS,7,0,0,6,,,
+66441,Junction City,Geary,KS,7,0,0,5,,,
+66605,Topeka,Shawnee,KS,7,2,1,6,66.8,180900,67104
+67005,Arkansas City,Cowley,KS,7,1,0,7,,,
+67212,Wichita,Sedgwick,KS,7,0,0,6,63.1,203300,69365
+67449,Herington,Dickinson,KS,7,2,1,7,,,
+67501,Hutchinson,Reno,KS,7,2,0,7,,,
+67530,Great Bend,Barton,KS,7,1,0,7,,,
+68506,Lincoln,Lancaster,NE,7,2,0,7,58.9,275200,74793
+66061,Olathe,Johnson,KS,6,1,0,6,,,
+66604,Topeka,Shawnee,KS,6,0,0,6,66.8,180900,67104
+66739,Galena,Cherokee,KS,6,0,0,5,,,
+67042,El Dorado,Butler,KS,6,0,0,6,,,
+67114,Newton,Harvey,KS,6,2,0,6,,,
+67213,Wichita,Sedgwick,KS,6,0,0,6,63.1,203300,69365
+67230,Wichita,Sedgwick,KS,6,2,0,6,63.1,203300,69365
+68108,Omaha,Douglas,NE,6,1,0,6,61.5,266100,80391
+68111,Omaha,Douglas,NE,6,1,0,6,61.5,266100,80391
+68803,Grand Island,Hall,NE,6,2,0,6,,,
+66102,Kansas City,Wyandotte,KS,5,0,0,5,,,
+66203,Shawnee,Johnson,KS,5,1,0,4,,,
+66607,Topeka,Shawnee,KS,5,0,0,4,66.8,180900,67104
+66611,Topeka,Shawnee,KS,5,0,0,5,66.8,180900,67104
+66757,Neodesha,Wilson,KS,5,0,0,5,,,
+67209,Wichita,Sedgwick,KS,5,1,0,4,63.1,203300,69365
+67216,Wichita,Sedgwick,KS,5,1,1,5,63.1,203300,69365
+67235,Wichita,Sedgwick,KS,5,1,0,5,63.1,203300,69365
+68005,Bellevue,Sarpy,NE,5,1,0,5,70.4,314100,103321
+68025,Fremont,Dodge,NE,5,0,0,5,,,
+68104,Omaha,Douglas,NE,5,1,0,5,61.5,266100,80391
+68122,Omaha,Douglas,NE,5,1,0,5,61.5,266100,80391
+68135,Omaha,Douglas,NE,5,1,0,5,61.5,266100,80391
+68164,Omaha,Douglas,NE,5,0,0,5,61.5,266100,80391
+68310,Beatrice,Gage,NE,5,1,0,5,,,
+69101,North Platte,Lincoln,NE,5,2,2,5,,,
+69341,Gering,Scotts Bluff,NE,5,0,0,5,,,
+66002,Atchison,Atchison,KS,4,2,0,4,,,
+66106,Kansas City,Wyandotte,KS,4,0,0,4,,,
+66109,Kansas City,Wyandotte,KS,4,2,0,4,,,
+66502,Manhattan,Riley,KS,4,1,0,4,,,
+66617,Topeka,Shawnee,KS,4,2,0,4,66.8,180900,67104
+66713,Baxter Springs,Cherokee,KS,4,2,0,4,,,
+66720,Chanute,Neosho,KS,4,1,0,4,,,
+66749,Iola,Allen,KS,4,0,0,4,,,
+67037,Derby,Sedgwick,KS,4,0,0,4,63.1,203300,69365
+67060,Haysville,Sedgwick,KS,4,1,0,4,63.1,203300,69365
+67110,Mulvane,Sedgwick,KS,4,1,1,4,63.1,203300,69365
+67205,Wichita,Sedgwick,KS,4,0,0,4,63.1,203300,69365
+67333,Caney,Montgomery,KS,4,1,1,4,,,
+67337,Coffeyville,Montgomery,KS,4,0,0,4,,,
+67357,Parsons,Labette,KS,4,0,0,4,,,
+67502,Hutchinson,Reno,KS,4,0,0,4,,,
+67901,Liberal,Seward,KS,4,1,0,4,,,
+68048,Plattsmouth,Cass,NE,4,0,0,4,,,
+68105,Omaha,Douglas,NE,4,0,0,4,61.5,266100,80391
+68123,Bellevue,Sarpy,NE,4,1,0,4,70.4,314100,103321
+68134,Omaha,Douglas,NE,4,1,0,4,61.5,266100,80391
+68154,Omaha,Douglas,NE,4,1,0,4,61.5,266100,80391
+68507,Lincoln,Lancaster,NE,4,0,0,4,58.9,275200,74793
+68510,Lincoln,Lancaster,NE,4,0,0,4,58.9,275200,74793
+68516,Lincoln,Lancaster,NE,4,2,0,4,58.9,275200,74793
+68901,Hastings,Adams,NE,4,1,0,4,,,
+69301,Alliance,Box Butte,NE,4,2,1,4,,,
+69357,Mitchell,Scotts Bluff,NE,4,0,0,4,,,
+63775,Perryville,Perry,MO,3,1,0,1,,,
+64052,Independence,Jackson,MO,3,0,0,1,,,
+65714,Nixa,Christian,MO,3,1,0,3,,,
+66012,Bonner Springs,Wyandotte,KS,3,0,0,3,,,
+66024,Elwood,Doniphan,KS,3,0,0,3,,,
+66049,Lawrence,Douglas,KS,3,0,0,3,,,
+66202,Mission,Johnson,KS,3,1,0,2,,,
+66213,Overland Park,Johnson,KS,3,0,0,3,,,
+66216,Shawnee,Johnson,KS,3,0,0,3,,,
+66901,Concordia,Cloud,KS,3,0,0,3,,,
+67052,Goddard,Sedgwick,KS,3,0,0,3,63.1,203300,69365
+67068,Kingman,Kingman,KS,3,1,0,2,,,
+67070,Kiowa,Barber,KS,3,0,0,3,,,
+67149,Viola,Sedgwick,KS,3,0,0,2,63.1,203300,69365
+67156,Winfield,Cowley,KS,3,0,0,3,,,
+67204,Wichita,Sedgwick,KS,3,0,0,3,63.1,203300,69365
+67226,Wichita,Sedgwick,KS,3,2,0,3,63.1,203300,69365
+67336,Chetopa,Labette,KS,3,2,0,3,,,
+67550,Larned,Pawnee,KS,3,0,0,3,,,
+67665,Russell,Russell,KS,3,1,0,3,,,
+67701,Colby,Thomas,KS,3,0,0,3,,,
+67864,Meade,Meade,KS,3,0,0,3,,,
+68007,Bennington,Douglas,NE,3,2,1,3,61.5,266100,80391
+68022,Elkhorn,Douglas,NE,3,1,0,3,61.5,266100,80391
+68106,Omaha,Douglas,NE,3,1,0,3,61.5,266100,80391
+68117,Omaha,Douglas,NE,3,0,0,3,61.5,266100,80391
+68137,Omaha,Douglas,NE,3,0,0,3,61.5,266100,80391
+68307,Avoca,Cass,NE,3,0,0,3,,,
+68410,Nebraska City,Otoe,NE,3,1,0,3,,,
+68502,Lincoln,Lancaster,NE,3,0,0,3,58.9,275200,74793
+68505,Lincoln,Lancaster,NE,3,0,0,3,58.9,275200,74793
+68801,Grand Island,Hall,NE,3,0,0,3,,,
+68826,Central City,Merrick,NE,3,0,0,3,,,
+68845,Kearney,Buffalo,NE,3,1,0,3,,,
+68847,Kearney,Buffalo,NE,3,1,0,3,,,
+68862,Ord,Valley,NE,3,0,0,3,,,
+69336,Bridgeport,Morrill,NE,3,1,0,3,,,
+63021,Ballwin,Saint Louis,MO,2,1,0,2,,,
+63031,Florissant,Saint Louis,MO,2,0,0,2,,,
+63080,Sullivan,Franklin,MO,2,0,0,1,,,
+63136,St. Louis,Saint Louis,MO,2,0,0,0,,,
+63136,Saint Louis,Saint Louis,MO,2,0,0,2,,,
+63303,Saint Charles,Saint Charles,MO,2,0,0,2,,,
+64083,Raymore,Cass,MO,2,0,0,1,,,
+64128,Kansas City,Jackson,MO,2,0,0,2,,,
+64133,Raytown,Jackson,MO,2,0,0,1,,,
+64503,Saint Joseph,Buchanan,MO,2,0,0,1,,,
+64801,Joplin,Jasper,MO,2,0,0,1,,,
+64850,Neosho,Newton,MO,2,0,0,2,,,
+65251,Fulton,Callaway,MO,2,0,0,1,,,
+65270,Moberly,Randolph,MO,2,0,0,2,,,
+65804,Springfield,Greene,MO,2,0,0,0,,,
+66053,Louisburg,Miami,KS,2,0,0,2,,,
+66070,Ozawkie,Jefferson,KS,2,0,0,2,,,
+66071,Paola,Miami,KS,2,0,0,2,,,
+66086,Tonganoxie,Leavenworth,KS,2,0,0,2,,,
+66090,Wathena,Doniphan,KS,2,0,0,2,,,
+66092,Wellsville,Franklin,KS,2,0,0,2,,,
+66101,Kansas City,Wyandotte,KS,2,0,0,2,,,
+66111,Kansas City,Wyandotte,KS,2,1,0,2,,,
+66215,Lenexa,Johnson,KS,2,1,0,2,,,
+66218,Shawnee,Johnson,KS,2,1,0,2,,,
+66219,Lenexa,Johnson,KS,2,0,0,1,,,
+66227,Lenexa,Johnson,KS,2,0,0,2,,,
+66512,Meriden,Jefferson,KS,2,0,0,2,,,
+66547,Wamego,Pottawatomie,KS,2,1,0,2,,,
+66548,Waterville,Marshall,KS,2,0,0,1,,,
+66606,Topeka,Shawnee,KS,2,0,0,2,66.8,180900,67104
+66618,Topeka,Shawnee,KS,2,1,0,2,66.8,180900,67104
+66701,Fort Scott,Bourbon,KS,2,0,0,2,,,
+66772,Savonburg,Allen,KS,2,1,0,2,,,
+66860,Madison,Greenwood,KS,2,0,0,2,,,
+66861,Marion,Marion,KS,2,0,0,2,,,
+66868,Reading,Lyon,KS,2,0,0,2,,,
+66952,Lebanon,Smith,KS,2,0,0,2,,,
+66967,Smith Center,Smith,KS,2,0,0,2,,,
+67002,Andover,Butler,KS,2,1,1,2,,,
+67003,Anthony,Harper,KS,2,0,0,2,,,
+67017,Benton,Butler,KS,2,1,0,2,,,
+67124,Pratt,Pratt,KS,2,0,0,2,,,
+67147,Valley Center,Sedgwick,KS,2,0,0,2,63.1,203300,69365
+67206,Wichita,Sedgwick,KS,2,0,0,2,63.1,203300,69365
+67210,Wichita,Sedgwick,KS,2,0,0,2,63.1,203300,69365
+67218,Wichita,Sedgwick,KS,2,0,0,2,63.1,203300,69365
+67220,Wichita,Sedgwick,KS,2,1,0,2,63.1,203300,69365
+67352,Longton,Elk,KS,2,0,0,2,,,
+67410,Abilene,Dickinson,KS,2,0,0,2,,,
+67439,Ellsworth,Ellsworth,KS,2,0,0,2,,,
+67460,Mcpherson,Mcpherson,KS,2,0,0,2,,,
+67578,Stafford,Stafford,KS,2,1,0,2,,,
+67654,Norton,Norton,KS,2,0,0,2,,,
+67663,Plainville,Rooks,KS,2,0,0,2,,,
+67735,Goodland,Sherman,KS,2,1,0,2,,,
+67855,Johnson City,Stanton,KS,2,0,0,2,,,
+67951,Hugoton,Stevens,KS,2,0,0,0,,,
+68030,Homer,Dakota,NE,2,0,0,2,,,
+68046,Papillion,Sarpy,NE,2,0,0,2,70.4,314100,103321
+68066,Wahoo,Saunders,NE,2,0,0,2,,,
+68114,Omaha,Douglas,NE,2,0,0,2,61.5,266100,80391
+68124,Omaha,Douglas,NE,2,0,0,2,61.5,266100,80391
+68127,Omaha,Douglas,NE,2,1,0,2,61.5,266100,80391
+68130,Omaha,Douglas,NE,2,1,0,2,61.5,266100,80391
+68133,Papillion,Sarpy,NE,2,1,0,2,70.4,314100,103321
+68138,Omaha,Sarpy,NE,2,1,0,2,70.4,314100,103321
+68147,Bellevue,Sarpy,NE,2,0,0,2,70.4,314100,103321
+68152,Omaha,Douglas,NE,2,0,0,2,61.5,266100,80391
+68157,Omaha,Sarpy,NE,2,0,0,2,70.4,314100,103321
+68303,Alexandria,Thayer,NE,2,0,0,2,,,
+68305,Auburn,Nemaha,NE,2,0,0,2,,,
+68355,Falls City,Richardson,NE,2,0,0,2,,,
+68361,Geneva,Fillmore,NE,2,0,0,2,,,
+68376,Humboldt,Richardson,NE,2,1,0,2,,,
+68458,Virginia,Gage,NE,2,0,0,2,,,
+68466,Wymore,Gage,NE,2,0,0,2,,,
+68504,Lincoln,Lancaster,NE,2,0,0,2,58.9,275200,74793
+68522,Lincoln,Lancaster,NE,2,1,0,2,58.9,275200,74793
+68601,Columbus,Platte,NE,2,1,0,2,,,
+68654,Polk,Polk,NE,2,0,0,2,,,
+68701,Norfolk,Madison,NE,2,1,0,2,,,
+68745,Laurel,Cedar,NE,2,0,0,2,,,
+68787,Wayne,Wayne,NE,2,0,0,2,,,
+68818,Aurora,Hamilton,NE,2,1,0,2,,,
+68850,Lexington,Dawson,NE,2,0,0,2,,,
+68949,Holdrege,Phelps,NE,2,2,0,2,,,
+69045,Wauneta,Chase,NE,2,1,0,2,,,
+69133,Dix,Kimball,NE,2,0,0,2,,,
+69153,Ogallala,Keith,NE,2,0,0,2,,,
+69156,Potter,Cheyenne,NE,2,0,0,2,,,
+69334,Bayard,Morrill,NE,2,1,0,2,,,
+69345,Harrisburg,Banner,NE,2,0,0,2,,,
+63010,Arnold,Jefferson,MO,1,0,0,0,,,
+63026,Fenton,Saint Louis,MO,1,0,0,0,,,
+63033,Florissant,Saint Louis,MO,1,0,0,0,,,
+63042,Hazelwood,Saint Louis,MO,1,0,0,0,,,
+63049,High Ridge,Jefferson,MO,1,0,0,1,,,
+63051,House Springs,Jefferson,MO,1,0,0,0,,,
+63074,Saint Ann,Saint Louis,MO,1,0,0,0,,,
+63108,Columbia,Saint Louis City,MO,1,0,0,0,,,
+63109,Saint Louis,Saint Louis City,MO,1,0,0,0,,,
+63110,St. Louis,Saint Louis City,MO,1,0,0,1,,,
+63111,St. Louis,Saint Louis City,MO,1,0,0,1,,,
+63112,Saint Louis,Saint Louis City,MO,1,1,0,0,,,
+63115,St Louis ,Saint Louis City,MO,1,0,0,0,,,
+63115,Saint Louis,Saint Louis City,MO,1,0,0,0,,,
+63115,St. Louis,Saint Louis City,MO,1,0,0,0,,,
+63119,Webster Groves,Saint Louis,MO,1,1,0,0,,,
+63121,Saint Louis,Saint Louis,MO,1,0,0,0,,,
+63126,Saint Louis,Saint Louis,MO,1,0,0,0,,,
+63128,St. Louis,Saint Louis,MO,1,0,0,1,,,
+63130,Saint Louis,Saint Louis,MO,1,0,0,0,,,
+63134,Saint Louis,Saint Louis,MO,1,0,0,1,,,
+63135,Ferguson,Saint Louis,MO,1,0,0,0,,,
+63137,Saint Louis,Saint Louis,MO,1,0,0,0,,,
+63138,Saint Louis,Saint Louis,MO,1,0,0,1,,,
+63146,Saint Louis,Saint Louis,MO,1,0,0,1,,,
+63301,St. Charles,Saint Charles,MO,1,1,0,0,,,
+63301,Saint Charles,Saint Charles,MO,1,1,0,1,,,
+63334,Bowling Green,Pike,MO,1,0,0,0,,,
+63379,Troy,Lincoln,MO,1,0,0,0,,,
+63385,Wentzville,Saint Charles,MO,1,0,0,0,,,
+63390,Wright City ,Warren,MO,1,0,0,1,,,
+63463,Philadelphia,Marion,MO,1,0,0,1,,,
+63620,Annapolis,Iron,MO,1,1,1,0,,,
+63624,Bismarck,Saint Francois,MO,1,0,0,0,,,
+63640,Farmington,Saint Francois,MO,1,0,0,1,,,
+63701,Cape Girardeau,Cape Girardeau,MO,1,0,0,0,,,
+63703,Cape Girardeau,Cape Girardeau,MO,1,0,0,1,,,
+63841,Dexter,Stoddard,MO,1,0,0,0,,,
+63851,Hayti,Pemiscot,MO,1,0,0,0,,,
+64014,Blue Springs,Jackson,MO,1,0,0,0,,,
+64015,Blue Springs,Jackson,MO,1,0,0,0,,,
+64056,Independence,Jackson,MO,1,0,0,1,,,
+64057,Independence,Jackson,MO,1,0,0,0,,,
+64060,Kearney,Clay,MO,1,0,0,0,,,
+64063,Lake Lotawana,Jackson,MO,1,0,0,1,,,
+64068,Liberty ,Clay,MO,1,0,0,0,,,
+64081,Lees Summit,Jackson,MO,1,0,0,0,,,
+64085,Richmond,Ray,MO,1,0,0,1,,,
+64119,Kansas City,Clay,MO,1,0,0,0,,,
+64124,Kansas City,Jackson,MO,1,0,0,0,,,
+64127,Kansas City,Jackson,MO,1,0,0,1,,,
+64138,Kansas City,Jackson,MO,1,0,0,0,,,
+64138,Raytown,Jackson,MO,1,1,0,1,,,
+64151,Kansas City,Platte,MO,1,0,0,0,,,
+64637,Cowgill,Caldwell,MO,1,0,0,0,,,
+64673,Princeton,Mercer,MO,1,0,0,1,,,
+64804,Joplin ,Jasper,MO,1,0,0,0,,,
+64804,Joplin,Jasper,MO,1,0,0,0,,,
+65014,Bland,Gasconade,MO,1,0,0,0,,,
+65020,Camdenton,Camden,MO,1,0,0,0,,,
+65201,Columbia,Boone,MO,1,0,0,0,,,
+65202,Columbia,Boone,MO,1,0,0,0,,,
+65349,Slater,Saline,MO,1,0,0,1,,,
+65441,Bourbon,Crawford,MO,1,0,0,0,,,
+65536,Lebanon Missouri 65536,Laclede,MO,1,0,0,1,,,
+65566,Viburnum ,Iron,MO,1,0,0,1,,,
+65633,Crane,Stone,MO,1,0,0,0,,,
+65706,Marshfield,Webster,MO,1,0,0,1,,,
+65708,Monett,Barry,MO,1,0,0,0,,,
+65721,Ozark,Christian,MO,1,0,0,1,,,
+65737,Reeds Spring,Stone,MO,1,0,0,1,,,
+65760,Tecumseh ,Ozark,MO,1,0,0,0,,,
+65774,Weaubleau,Hickory,MO,1,1,1,1,,,
+65803,Springfield,Greene,MO,1,0,0,0,,,
+65803,Springfield ,Greene,MO,1,0,0,1,,,
+65807,Springfield,Greene,MO,1,1,0,0,,,
+66006,Baldwin,Douglas,KS,1,0,0,1,,,
+66006,Baldwin City,Douglas,KS,1,0,0,1,,,
+66010,Blue Mound,Linn,KS,1,0,0,1,,,
+66018,De Soto,Johnson,KS,1,0,0,1,,,
+66039,Kincaid,Anderson,KS,1,0,0,1,,,
+66040,Lacygne,Linn,KS,1,1,0,1,,,
+66040,Linn Valley,Linn,KS,1,0,0,1,,,
+66044,Lawrence,Douglas,KS,1,1,0,1,,,
+66047,Lawrence,Douglas,KS,1,0,0,1,,,
+66049,Lawrence ,Douglas,KS,1,1,0,1,,,
+66050,Lecompton,Shawnee,KS,1,0,0,1,66.8,180900,67104
+66061,Olathe ,Johnson,KS,1,0,0,1,,,
+66064,Osawatomie,Miami,KS,1,0,0,1,,,
+66073,Perry,Jefferson,KS,1,0,0,1,,,
+66075,Pleasanton ,Linn,KS,1,0,0,1,,,
+66076,Pomona,Franklin,KS,1,0,0,1,,,
+66083,Spring Hill,Johnson,KS,1,0,0,1,,,
+66085,Stilwell,Johnson,KS,1,0,0,1,,,
+66088,Valley Falls,Jefferson,KS,1,0,0,1,,,
+66097,Winchester,Jefferson,KS,1,0,0,1,,,
+66104,Kansas City ,Wyandotte,KS,1,0,0,1,,,
+66111,Edwardsville,Wyandotte,KS,1,1,0,1,,,
+66112,Kansas City,Wyandotte,KS,1,0,0,1,,,
+66204,Overland Park,Johnson,KS,1,0,0,1,,,
+66205,Fairway,Johnson,KS,1,0,0,1,,,
+66206,Leawood,Johnson,KS,1,0,0,1,,,
+66207,Overland Park,Johnson,KS,1,0,0,1,,,
+66209,Leawood,Johnson,KS,1,0,0,1,,,
+66210,Overland Park,Johnson,KS,1,0,0,1,,,
+66212,Overland Park,Johnson,KS,1,0,0,1,,,
+66212,Overland,Johnson,KS,1,0,0,1,,,
+66213,Overland Park ,Johnson,KS,1,0,0,1,,,
+66214,Overland Park,Johnson,KS,1,0,0,1,,,
+66215,Lenexa ,Johnson,KS,1,0,0,1,,,
+66217,Shawnee,Johnson,KS,1,0,0,0,,,
+66226,Shawnee,Johnson,KS,1,0,0,1,,,
+66401,Alma,Wabaunsee,KS,1,0,0,1,,,
+66402,Auburn,Shawnee,KS,1,0,0,1,66.8,180900,67104
+66409,Berryton ,Shawnee,KS,1,0,0,1,66.8,180900,67104
+66409,Berryton,Shawnee,KS,1,0,0,1,66.8,180900,67104
+66411, Blue. Rapids,Marshall,KS,1,0,0,1,,,
+66413,Burlingame,Osage,KS,1,0,0,1,,,
+66428,Goff,Nemaha,KS,1,1,0,1,,,
+66436,Holton,Jackson,KS,1,0,0,1,,,
+66439,Horton,Brown,KS,1,1,0,1,,,
+66503,Manhattan,Riley,KS,1,0,0,1,,,
+66508,Marysville,Marshall,KS,1,0,0,1,,,
+66509,Mayetta,Jackson,KS,1,0,0,1,,,
+66510,Melvern,Osage,KS,1,0,0,1,,,
+66524,Overbrook,Osage,KS,1,0,0,1,,,
+66534,Sabetha,Nemaha,KS,1,0,0,1,,,
+66535,Saint George,Pottawatomie,KS,1,0,0,1,,,
+66542,Tecumseh,Shawnee,KS,1,0,0,1,66.8,180900,67104
+66603,Topeka,Shawnee,KS,1,1,0,1,66.8,180900,67104
+66605,Topeka ,Shawnee,KS,1,0,0,1,66.8,180900,67104
+66608,Topeka,Shawnee,KS,1,0,0,1,66.8,180900,67104
+66610,Topeka,Shawnee,KS,1,0,0,1,66.8,180900,67104
+66616,Topeka,Shawnee,KS,1,0,0,1,66.8,180900,67104
+66710,Altoona,Wilson,KS,1,0,0,1,,,
+66724,Cherokee,Crawford,KS,1,0,0,1,,,
+66725,Columbus,Cherokee,KS,1,0,0,1,,,
+66735,Franklin,Crawford,KS,1,0,0,0,,,
+66736,Fredonia,Wilson,KS,1,0,0,1,,,
+66749,Moran,Allen,KS,1,0,0,1,,,
+66753,Mccune,Crawford,KS,1,1,0,1,,,
+66762,Pittsburg,Crawford,KS,1,0,0,1,,,
+66763,Frontenac,Crawford,KS,1,0,0,1,,,
+66767,Prescott,Linn,KS,1,0,0,1,,,
+66776,Thayer,Neosho,KS,1,0,0,1,,,
+66783,Durand,Woodson,KS,1,1,0,1,,,
+66834,Alta Vista,Wabaunsee,KS,1,0,0,0,,,
+66846,Council Grove,Morris,KS,1,0,0,1,,,
+66857,Le Roy,Coffey,KS,1,1,1,1,,,
+66864,Neosho Rapids,Lyon,KS,1,0,0,1,,,
+66866,Peabody,Marion,KS,1,0,0,1,,,
+66901,Concordia ,Cloud,KS,1,0,0,1,,,
+66930,Agenda,Republic,KS,1,0,0,1,,,
+66937,Clifton,Washington,KS,1,0,0,1,,,
+66939,Courtland,Republic,KS,1,0,0,1,,,
+66945,Hanover ,Washington,KS,1,0,0,1,,,
+66958,Morrowville,Washington,KS,1,0,0,1,,,
+67009,Attica,Harper,KS,1,0,0,1,,,
+67010,Augusta,Butler,KS,1,0,0,1,,,
+67020,Burrton,Harvey,KS,1,1,0,1,,,
+67026,Clearwater,Sedgwick,KS,1,0,0,1,63.1,203300,69365
+67030,Colwich,Sedgwick,KS,1,0,0,1,63.1,203300,69365
+67042,Eldorado,Butler,KS,1,0,0,1,,,
+67045,Eureka,Greenwood,KS,1,0,0,1,,,
+67047,Fall River,Greenwood,KS,1,0,0,1,,,
+67050,Garden Plain,Sedgwick,KS,1,1,0,0,63.1,203300,69365
+67051,Geuda Springs ,Sumner,KS,1,0,0,1,,,
+67054,Greensburg,Kiowa,KS,1,0,0,1,,,
+67058,Harper,Harper,KS,1,1,1,1,,,
+67062,Hesston,Harvey,KS,1,1,0,1,,,
+67067,Kechi,Sedgwick,KS,1,1,1,1,63.1,203300,69365
+67101,Maize,Sedgwick,KS,1,0,0,1,63.1,203300,69365
+67104,Medicine Lodge,Barber,KS,1,0,0,1,,,
+67114,Newton ,Harvey,KS,1,0,0,1,,,
+67120,Peck,Sumner,KS,1,0,0,1,,,
+67123,Potwin,Butler,KS,1,0,0,1,,,
+67133,Rose Hill,Butler,KS,1,1,0,1,,,
+67135,Sedgwick,Harvey,KS,1,0,0,1,,,
+67137,Severy,Greenwood,KS,1,0,0,1,,,
+67144,Towanda,Butler,KS,1,0,0,1,,,
+67146,Udall,Cowley,KS,1,0,0,1,,,
+67146,Udall ,Cowley,KS,1,0,0,1,,,
+67147,Balley Center,Sedgwick,KS,1,0,0,1,63.1,203300,69365
+67151,Walton,Harvey,KS,1,0,0,0,,,
+67152,Wellington,Sumner,KS,1,0,0,1,,,
+67215,Wichita,Sedgwick,KS,1,0,0,1,63.1,203300,69365
+67219,Park City,Sedgwick,KS,1,0,0,0,63.1,203300,69365
+67219,Wichita,Sedgwick,KS,1,0,0,1,63.1,203300,69365
+67220,Wichita ,Sedgwick,KS,1,0,0,1,63.1,203300,69365
+67226,Bel Aire,Sedgwick,KS,1,0,0,1,63.1,203300,69365
+67340,Dearing,Montgomery,KS,1,0,0,1,,,
+67351,Liberty,Montgomery,KS,1,0,0,0,,,
+67354,Mound Valley,Labette,KS,1,0,0,1,,,
+67360,Peru,Chautauqua,KS,1,0,0,1,,,
+67420,Beloit,Mitchell,KS,1,0,0,0,,,
+67427,Bushton,Rice,KS,1,1,1,1,,,
+67431,Chapman,Dickinson,KS,1,0,0,1,,,
+67443,Galva,Mcpherson,KS,1,0,0,1,,,
+67444,Geneseo,Rice,KS,1,0,0,1,,,
+67456,Lindsborg,Mcpherson,KS,1,0,0,1,,,
+67467,Minneapolis,Ottawa,KS,1,1,0,1,,,
+67481,Sylvan Grove,Lincoln,KS,1,0,0,0,,,
+67484,Tescott,Ottawa,KS,1,0,0,1,,,
+67490,Wilson,Ellsworth,KS,1,1,1,0,,,
+67491,Windom,Mcpherson,KS,1,0,0,1,,,
+67525,Claflin,Barton,KS,1,0,0,1,,,
+67544,Hoisington,Barton,KS,1,0,0,1,,,
+67553,Liebenthal,Rush,KS,1,0,0,1,,,
+67557,Macksville,Stafford,KS,1,1,0,1,,,
+67560,Ness City,Ness,KS,1,0,0,1,,,
+67561,Nickerson,Reno,KS,1,0,0,1,,,
+67566,Partridge,Reno,KS,1,1,0,1,,,
+67570,Pretty Pr,Reno,KS,1,0,0,1,,,
+67573,Raymond,Rice,KS,1,0,0,1,,,
+67576,St John ,Stafford,KS,1,1,1,1,,,
+67625,Bogue,Graham,KS,1,0,0,1,,,
+67629,Clayton,Norton,KS,1,0,0,1,,,
+67642,Hill City,Graham,KS,1,0,0,1,,,
+67657,Palco,Rooks,KS,1,0,0,1,,,
+67731,Bird City,Cheyenne,KS,1,0,0,1,,,
+67736,Gove,Gove,KS,1,0,0,1,,,
+67740,Hoxie,Sheridan,KS,1,0,0,1,,,
+67749,Oberlin,Decatur,KS,1,0,0,1,,,
+67831,Ashland,Clark,KS,1,0,0,1,,,
+67835,Cimarron,Gray,KS,1,0,0,1,,,
+67839,Dighton,Lane,KS,1,0,0,1,,,
+67849,Hanston,Hodgeman,KS,1,0,0,1,,,
+67859,Kismet,Seward,KS,1,0,0,1,,,
+67869,Plains,Meade,KS,1,0,0,1,,,
+67880,Ulysses,Grant,KS,1,0,0,1,,,
+67950,Elkhart,Morton,KS,1,0,0,1,,,
+68003,Ashland,Saunders,NE,1,0,0,1,,,
+68005,Bellevue ,Sarpy,NE,1,1,0,1,70.4,314100,103321
+68018,Colon,Saunders,NE,1,0,0,1,,,
+68020,Decatur,Burt,NE,1,0,0,1,,,
+68022,Omaha,Douglas,NE,1,0,0,1,61.5,266100,80391
+68022,Elkhorn ,Douglas,NE,1,0,0,1,61.5,266100,80391
+68028,Gretna,Sarpy,NE,1,1,1,1,70.4,314100,103321
+68041,Mead,Saunders,NE,1,0,0,1,,,
+68050,Prague,Saunders,NE,1,0,0,1,,,
+68057,Scribner,Dodge,NE,1,1,0,1,,,
+68061,Tekamah,Burt,NE,1,0,0,1,,,
+68065,Valparaiso,Saunders,NE,1,0,0,1,,,
+68073,Yutan,Saunders,NE,1,1,0,1,,,
+68104,Benson,Douglas,NE,1,0,0,1,61.5,266100,80391
+68108,Omaha ,Douglas,NE,1,0,0,1,61.5,266100,80391
+68110,Omaha,Douglas,NE,1,1,1,1,61.5,266100,80391
+68112,Omaha ,Douglas,NE,1,1,0,1,61.5,266100,80391
+68116,Omaha,Douglas,NE,1,0,0,1,61.5,266100,80391
+68118,Omaha,Douglas,NE,1,0,0,1,61.5,266100,80391
+68127,Ralston,Douglas,NE,1,0,0,1,61.5,266100,80391
+68128,La Vista,Sarpy,NE,1,0,0,1,70.4,314100,103321
+68136,Omaha,Sarpy,NE,1,0,0,1,70.4,314100,103321
+68144,Omaha,Douglas,NE,1,1,0,1,61.5,266100,80391
+68157,Bellevue,Sarpy,NE,1,0,0,1,70.4,314100,103321
+68197,Omaha,Douglas,NE,1,0,0,1,61.5,266100,80391
+68341,Dewitt Nebraska ,Saline,NE,1,1,0,1,,,
+68343,Dorchester,Saline,NE,1,0,0,1,,,
+68346,Dunbar,Otoe,NE,1,0,0,1,,,
+68352,Fairbury,Jefferson,NE,1,0,0,1,,,
+68359,Friend,Saline,NE,1,0,0,1,,,
+68360,Garland,Seward,NE,1,1,1,1,,,
+68368,Hallam,Lancaster,NE,1,0,0,1,58.9,275200,74793
+68371,Henderson,York,NE,1,1,0,1,,,
+68371,Henderson ,York,NE,1,0,0,1,,,
+68404,Martell,Lancaster,NE,1,1,0,1,58.9,275200,74793
+68417,Otoe,Otoe,NE,1,0,0,1,,,
+68422,Pickrell,Gage,NE,1,0,0,1,,,
+68434,Seward,Seward,NE,1,0,0,1,,,
+68442,Stella,Richardson,NE,1,0,0,1,,,
+68443,Sterling,Johnson,NE,1,1,0,1,,,
+68446,Syracuse,Otoe,NE,1,0,0,1,,,
+68450,Tecumseh,Johnson,NE,1,0,0,1,,,
+68454,Unadilla,Otoe,NE,1,1,0,1,,,
+68455,Union,Cass,NE,1,0,0,1,,,
+68458,Virginia ,Gage,NE,1,0,0,1,,,
+68467,York,York,NE,1,0,0,1,,,
+68503,Lincoln ,Lancaster,NE,1,0,0,1,58.9,275200,74793
+68503,Lincoln,Lancaster,NE,1,0,0,1,58.9,275200,74793
+68508,Lincoln,Lancaster,NE,1,0,0,1,58.9,275200,74793
+68521,Lincoln,Lancaster,NE,1,0,0,1,58.9,275200,74793
+68523,Lincoln,Lancaster,NE,1,0,0,1,58.9,275200,74793
+68524,Lincoln,Lancaster,NE,1,0,0,1,58.9,275200,74793
+68528,Lincoln,Lancaster,NE,1,0,0,1,58.9,275200,74793
+68633,Dodge,Dodge,NE,1,0,0,1,,,
+68638,Fullerton,Nance,NE,1,1,0,1,,,
+68642,Humphrey,Platte,NE,1,0,0,1,,,
+68648,Morse Bluff,Saunders,NE,1,0,0,1,,,
+68649,North Bend,Dodge,NE,1,0,0,1,,,
+68660,Saint Edward,Boone,NE,1,0,0,1,,,
+68660,St Edward,Boone,NE,1,0,0,1,,,
+68662,Shelby,Polk,NE,1,0,0,1,,,
+68666,Stromsburg,Polk,NE,1,0,0,1,,,
+68722,Butte,Boyd,NE,1,1,0,1,,,
+68730,Crofton,Knox,NE,1,0,0,1,,,
+68738,Hadar,Pierce,NE,1,0,0,1,,,
+68740,Hoskins,Wayne,NE,1,0,0,1,,,
+68743,Jackson,Dakota,NE,1,0,0,1,,,
+68767,Pierce,Pierce,NE,1,0,0,1,,,
+68769,Plainview,Pierce,NE,1,1,0,1,,,
+68776,South Sioux City ,Dakota,NE,1,1,1,1,,,
+68784,Wakefield,Dixon,NE,1,0,0,1,,,
+68786,Wausa,Knox,NE,1,1,0,1,,,
+68788,West Point,Cuming,NE,1,0,0,1,,,
+68790,Winside,Wayne,NE,1,1,0,1,,,
+68810,Alda,Hall,NE,1,0,0,1,,,
+68812,Amherst,Buffalo,NE,1,0,0,1,,,
+68814,Ansley,Custer,NE,1,0,0,1,,,
+68822,Broken Bow ,Custer,NE,1,0,0,1,,,
+68823,Burwell,Garfield,NE,1,1,0,1,,,
+68831,Dannebrog,Howard,NE,1,0,0,1,,,
+68835,Elba,Howard,NE,1,1,1,1,,,
+68836,Elm Creek,Buffalo,NE,1,0,0,1,,,
+68837,Elyria,Valley,NE,1,0,0,1,,,
+68853,Loup City,Sherman,NE,1,0,0,1,,,
+68860,Oconto,Custer,NE,1,0,0,1,,,
+68863,Overton,Dawson,NE,1,0,0,1,,,
+68872,Saint Libory,Howard,NE,1,0,0,1,,,
+68874,Sargent ,Custer,NE,1,0,0,1,,,
+68922,Arapahoe ,Furnas,NE,1,0,0,1,,,
+68933,Clay Center,Clay,NE,1,0,0,1,,,
+68961,Nelson,Nuckolls,NE,1,0,0,1,,,
+68967,Oxford,Furnas,NE,1,1,1,1,,,
+68971,Republican City ,Harlan,NE,1,0,0,1,,,
+68973,Roseland,Adams,NE,1,0,0,1,,,
+68977,Stamford,Harlan,NE,1,1,1,1,,,
+68980,Trumbull,Clay,NE,1,0,0,1,,,
+69021,Benkelman,Dundy,NE,1,0,0,1,,,
+69029,Farnam,Dawson,NE,1,0,0,1,,,
+69033,Imperial,Chase,NE,1,0,0,1,,,
+69044,Trenton,Hitchcock,NE,1,0,0,1,,,
+69125,Broadwater,Morrill,NE,1,0,0,1,,,
+69130,Cozad,Dawson,NE,1,0,0,1,,,
+69145,Kimball,Kimball,NE,1,0,0,1,,,
+69152,Mullen,Hooker,NE,1,0,0,1,,,
+69152,Mullen ,Hooker,NE,1,0,0,1,,,
+69154,Oshkosh,Garden,NE,1,1,1,1,,,
+69161,Seneca,Thomas,NE,1,0,0,1,,,
+69162,Sidney,Cheyenne,NE,1,0,0,1,,,
+69201,Valentine,Cherry,NE,1,1,1,1,,,
+69301,Alliance ,Box Butte,NE,1,1,0,1,,,
+69343,Gordon,Sheridan,NE,1,0,0,1,,,
+69346,Harrison,Sioux,NE,1,0,0,1,,,
+69348,Hemingford,Box Butte,NE,1,0,0,1,,,
+69355,Melbeta,Scotts Bluff,NE,1,0,0,1,,,
+69358,Morrill,Scotts Bluff,NE,1,0,0,1,,,
+78727,Austin,Smith,TX,1,0,0,1,,,
+90024,Murrieta,Los Angeles,CA,1,0,0,1,,,
+90041,Los Angeles,Los Angeles,CA,1,0,0,1,,,
+91343,North Hills,Los Angeles,CA,1,0,0,1,,,
+91750,La Verne,Los Angeles,CA,1,0,0,1,,,
+91978,Spring Valley,San Diego,CA,1,0,0,1,,,
+92241,Desert Hot Springs,Riverside,CA,1,0,0,1,,,
+92373,Redlands,San Bernardino,CA,1,0,0,1,,,
+92882,Corona,Riverside,CA,1,0,0,1,,,
+93283,Weldon,Kern,CA,1,0,0,1,,,
+93536,Lancaster,Los Angeles,CA,1,0,0,1,,,
+94523,Pleasant Hill,Contra Costa,CA,1,0,0,1,,,
+95762,El Dorado Hills,El Dorado,CA,1,0,0,1,,,
